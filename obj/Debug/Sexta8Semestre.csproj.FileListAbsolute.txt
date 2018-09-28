@@ -1,0 +1,14 @@
+c:\users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\obj\Debug\Sexta8Semestre.csprojResolveAssemblyReference.cache
+c:\users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\obj\Debug\Sexta8Semestre.Properties.Resources.resources
+c:\users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\obj\Debug\Sexta8Semestre.csproj.GenerateResource.cache
+c:\users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\bin\Debug\Sexta8Semestre.exe.config
+c:\users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\bin\Debug\Sexta8Semestre.exe
+c:\users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\bin\Debug\Sexta8Semestre.pdb
+c:\users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\obj\Debug\Sexta8Semestre.s01_Welcome.resources
+c:\users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\obj\Debug\Sexta8Semestre.exe
+c:\users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\obj\Debug\Sexta8Semestre.pdb
+c:\users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\obj\Debug\Sexta8Semestre.s02_Select.resources
+C:\Users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\obj\Debug\Sexta8Semestre.csproj.CoreCompileInputs.cache
+C:\Users\-\documents\visual studio 2017\Projects\Sexta8Semestre\Sexta8Semestre\obj\Debug\Sexta8Semestre.csproj.CopyComplete
